@@ -86,7 +86,7 @@ Every project is a step towards something greater. Let's keep pushing the bounda
  By Damika Akalanka 😊
 Feel free to explore, modify, and share your improvements!
 ```
-![Preview](https://github.com/your-username/your-repository/raw/main/path-to-your-image.png)
+![Preview](https://github.com/Damika3002/ILUMIX/blob/main/images/Screenshot%202025-03-30%20013539.png?raw=true)
 
 
 ---
@@ -286,13 +286,16 @@ Deactivate the Relays: Turns both OFF (HIGH).
 
 
 ### Image 1
-![First Example Image](https://github.com/your-username/your-repository/raw/main/example_image1.png)
-
-### Image 2
-![Second Example Image](https://github.com/your-username/your-repository/raw/main/example_image2.png)
+![First Example Image](https://github.com/Damika3002/ILUMIX/blob/main/images/Screenshot%202025-03-30%20013722.png?raw=true)
 
 ### GIF Example
-![Project Animation GIF](https://github.com/your-username/your-repository/raw/main/images/example_animation.gif)
+![Project Animation GIF](https://github.com/Damika3002/ILUMIX/blob/main/images/playback01%20(1).gif?raw=true)
+
+### Image 2
+![Second Example Image](https://github.com/Damika3002/ILUMIX/blob/main/images/Screenshot%202025-03-30%20013635.png?raw=true)
+
+### GIF Example
+![Project Animation GIF](https://github.com/Damika3002/ILUMIX/blob/main/images/playback01%20(3).gif)
 
 
 ---
@@ -301,9 +304,9 @@ Deactivate the Relays: Turns both OFF (HIGH).
 If you use or share this list, please include proper attribution by linking back to this repository and crediting the original author:
 
 > Created by [T.G Damika Akalanka](https://github.com/Damika3002)  
-> Original source: [ILUMIX](https://github.com/Damika3002/Arduino-Core-Links)
+> Original source: [ILUMIX](https://github.com/Damika3002/ILUMIX/tree/main)
 
-For more details, see the [LICENSE](https://github.com/Damika3002/Arduino-Core-Links?tab=MIT-1-ov-file) file.
+For more details, see the [LICENSE](https://github.com/Damika3002/ILUMIX/blob/main/LICENSE) file.
 
 ---
 
